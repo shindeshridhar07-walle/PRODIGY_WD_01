@@ -65,10 +65,6 @@ This project showcases a modern e-commerce website navigation system that enhanc
 - Visual feedback on all interactions
 - Fixed position for constant accessibility
 
-## 🚀 Demo
-
-[Live Demo Link](#) <!-- Add your deployed link here -->
-
 ### Quick Preview
 - Navigate through different sections
 - Scroll to see the navigation transform
@@ -112,7 +108,7 @@ This project showcases a modern e-commerce website navigation system that enhanc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/PRODIGY_WD_01.git
+   git clone https://github.com/shindeshridhar07-walle/PRODIGY_WD_01.git
    ```
 
 2. **Navigate to the project directory**
